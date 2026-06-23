@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   viewBox="0 0 132.29166 264.58333"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="v.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.855"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="translate(-66.146349)">
+    <path
+       id="path13"
+       style="baseline-shift:baseline;display:inline;overflow:visible;opacity:1;vector-effect:none;stroke-width:15.875;stroke-linejoin:round;stroke-dasharray:none;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       d="m 181.95117,56.261681 -105.833853,47.624999 -0.07803,14.4415 70.132153,32.48432 H 66.146349 v 15.875 h 10.84895 c 0.972436,19.64146 4.296947,35.0357 12.246798,46.59354 8.98116,13.05719 24.078353,19.43886 43.002023,19.55281 18.99028,0.11436 34.07588,-6.40464 42.82426,-19.49029 7.81635,-11.69153 10.8158,-27.18168 11.36623,-46.65606 h 12.00289 v -15.875 H 183.94588 L 98.486494,111.22835 188.46498,70.738317 Z M 92.912157,166.6875 h 77.623683 c -0.6183,17.68943 -3.60291,30.26065 -8.66459,37.8318 -5.71774,8.55249 -13.78212,12.5344 -29.53153,12.43955 -15.816,-0.0952 -24.09257,-4.05705 -30.01935,-12.67365 -5.165714,-7.51014 -8.384526,-19.90881 -9.408213,-37.5977 z" />
+  </g>
+</svg>
